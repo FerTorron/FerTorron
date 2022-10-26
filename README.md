@@ -28,12 +28,6 @@
 
 <br>
 
-## 🎧 Spotify Playing
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<br>
-
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerTorron&show_icons=true&theme=tokyonight)
 
